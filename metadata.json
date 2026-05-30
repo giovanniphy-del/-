@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 我的记账小助手",
+  "description": "一款简单易懂的个人财务管理小助手，支持记账、月度收支预算、房贷还款压力分析及工资条截图AI自动识别等功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
